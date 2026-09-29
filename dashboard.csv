@@ -1,0 +1,14 @@
+NetSage AI - Executive Dashboard
+""
+Metric,Value
+Total Cases Analyzed,30
+Cases Accepted (AI Correct),25
+Cases Rejected/Edited (Human Corrected),5
+AI Overall Agreement Rate,83.3%
+""
+Issue Themes,Count
+Routing & Layer 3,9
+VLAN & Layer 2,7
+ACL & Security,5
+DHCP & DNS (Layer 7),5
+Physical & Wireless,4
